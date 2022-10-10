@@ -71,7 +71,7 @@ body{
     justify-content: center;
     align-items:center;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1366px) {
     .nav_label{
         display: block;
         cursor: pointer;
