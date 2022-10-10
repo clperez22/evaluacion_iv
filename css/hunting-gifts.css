@@ -1,0 +1,98 @@
+.hunting-gifts{
+    width: 100;
+}
+.hunting-gifts .titulo{
+    width: 25rem;
+    padding: 2rem 4rem;
+}
+.hunting-gifts .titulo h2{
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+.hunting-gifts .titulo h1{
+    font-size: 0.9rem;
+}
+/*Titulo 2*/
+.hunting-gifts .titulo2{
+    width: 25rem;
+    padding: 2rem 4rem;
+}
+.hunting-gifts .titulo2 h2{
+    font-size: 2rem;
+}
+.hunting-gifts .titulo2 h1{
+    font-size: 0.9rem;
+}
+.contenido{
+    width: 100%;
+    padding: 4rem 2rem 0 2rem;
+}
+.contenido h1{
+    font-size: 1.5rem;
+    margin: -13rem 0 2rem 18rem;  
+}
+.contenido img{
+    width: 10rem;
+    margin: -1rem 0 0 18rem;
+
+    display: flex;
+    flex-direction: column;
+}
+
+@media only screen and (min-width: 1200px){
+    .hunting-gifts{
+        width: 80%;
+        margin: auto;        
+    }
+    .hunting-gifts .titulo{
+        width: 100%;
+        padding: 0 0 0 98rem;
+    }
+    .hunting-gifts .titulo{
+        margin: 10rem 0 0 -98rem;
+    }
+    .hunting-gifts .titulo h2{
+        font-size: 4rem;
+    }
+    .hunting-gifts .titulo h1{
+        font-size: 1.5rem;
+        
+    }
+
+    /*TITULO 2*/
+    .hunting-gifts .titulo2{
+        width: 100%;
+        padding: 0 0 0 98rem;
+    }
+    .hunting-gifts .titulo2{
+        margin: -7rem 0 0 -75rem;
+    }
+    .hunting-gifts .titulo2 h2{
+        font-size: 4rem;
+    }
+    .hunting-gifts .titulo2 h1{
+        font-size: 1.5rem;
+        
+    }
+    .contenido{
+        width: 80%;
+    }
+    .contenido h1{
+        font-size: 2rem;
+        margin: -12rem 0 0 76rem;
+    }
+    .contenido img{
+        width: 22rem;
+        height: 5rem;
+        margin: 1rem 0 0 75rem;
+    }
+}
+
+
+
+
+
+
+
+
+
